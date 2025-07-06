@@ -8,7 +8,7 @@ This is a Processing-based art that simulates an orbiting moon, dynamic meteor t
 
 
 # Preview
-[demo](./demo.gif)
+[demo](./demomovie.gif)
 
 > Meteor trails leave soft, glowing stars, while the moon orbits steadily.
 
