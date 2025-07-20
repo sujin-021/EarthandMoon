@@ -1,7 +1,8 @@
 # 🌏 Earth and Moon 🌔
 
 ### Overview
-This is a Processing-based art that simply visualized Earth and the Moon orbiting in space, dynamic meteor trails, and twinkling stars. you can enjoy a cosmic environment filled with stars and falling meteors to evoke the feeling of a night sky. 
+This is a Processing-based artwork that simply visualizes the Earth and the Moon orbiting in space, along with dynamic meteor trails and twinkling stars.
+You can enjoy a cosmic environment filled with stars and falling meteors, evoking the feeling of a starry night sky.
 
 
 ### Technologies used 
