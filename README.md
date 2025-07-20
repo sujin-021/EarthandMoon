@@ -17,5 +17,5 @@ This is a Processing-based art that simply visualized Earth and the Moon orbitin
 
 
 ### Preview
-[demo](./demomovie.gif)
+[click and enjoy!](./demomovie.gif)
 > Meteor trails leave soft, glowing stars, while the moon orbits steadily.
