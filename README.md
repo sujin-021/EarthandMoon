@@ -8,11 +8,6 @@ This is a Processing-based art that simply visualized Earth and the Moon orbitin
 - Java (Processing)
 
 
-### Preview
-[demo](./demomovie.gif)
-> Meteor trails leave soft, glowing stars, while the moon orbits steadily.
-
-
 ### System Features
 - Orbiting moon : The orbit is calculated using trigonometric functions (cos, sin) to simulate a 2D circular path. This demonstrates how orbital motion can be simplified and visualized using basic math in a 2D space.
   
@@ -21,4 +16,6 @@ This is a Processing-based art that simply visualized Earth and the Moon orbitin
 - Twinkling Stars : Stars are placed randomly using ellipse() with varying opacity (alpha values). Each star’s transparency fluctuates frame-by-frame and reverses direction when reaching min/max limits, creating a twinkling effect enhancing the immersive space atmosphere.
 
 
-
+### Preview
+[demo](./demomovie.gif)
+> Meteor trails leave soft, glowing stars, while the moon orbits steadily.
